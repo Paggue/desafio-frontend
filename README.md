@@ -21,8 +21,8 @@ Lista de telas:
 	- Cupons (validade e/ou quantidade)
 	- Produtos (nome, descrição, categoria, preço, estoque)
 	- Categorias dos produtos
-	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)`*`
-	- [BÔNUS] Visualização do cliente`**` (tela pública para visualizar os produtos)
+	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)*
+	- [BÔNUS] Visualização do cliente** (tela pública para visualizar os produtos)
 
 `*` Tente aplicar as cores selecionadas em todo o projeto, mudando backgrounds e cores dos textos. Deixe umas cores pré definidas inicialmente.
 
