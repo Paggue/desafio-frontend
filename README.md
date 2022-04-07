@@ -15,16 +15,17 @@ Nesta etapa você pode soltar a imaginação e criar todas as telas da aplicaç�
 
 Lista de telas:
 
-Login
-	-Cadastro de cliente (nome, cpf/cnpj, nome do estabelecimento (razão social e nome fantasia), email, senha, telefone)
-	-Perfil (adicionar conta bancária, chave pix, endereço, forma de pagamentos disponíveis)
-	-Cupons (validade e/ou quantidade)
-	-Produtos (nome, descrição, categoria, preço, estoque)
-	-Categorias dos produtos
-	-Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)`*`
-	-[BÔNUS] Visualização do cliente`**` (tela pública para visualizar os produtos)
+	- Login
+	- Cadastro de cliente (nome, cpf/cnpj, nome do estabelecimento (razão social e nome fantasia), email, senha, telefone)
+	- Perfil (adicionar conta bancária, chave pix, endereço, forma de pagamentos disponíveis)
+	- Cupons (validade e/ou quantidade)
+	- Produtos (nome, descrição, categoria, preço, estoque)
+	- Categorias dos produtos
+	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)`*`
+	- [BÔNUS] Visualização do cliente`**` (tela pública para visualizar os produtos)
 
 `*` Tente aplicar as cores selecionadas em todo o projeto, mudando backgrounds e cores dos textos. Deixe umas cores pré definidas inicialmente.
+
 `**` O bônus não é obrigatório, porém ajuda na qualificação.
 
 ##Código
