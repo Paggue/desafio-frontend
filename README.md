@@ -28,7 +28,7 @@ Lista de telas:
 
 `**` O bônus não é obrigatório, porém ajuda na qualificação.
 
-##Código
+## Código
 
 Para iniciar o seu teste, fique livre para usar libs, dependências e frameworks que você tem mais afinidade, porém iremos priorizar aqueles feitos com ReactJS.
 
