@@ -36,7 +36,7 @@ Para iniciar o seu teste, fique livre para usar libs, dependências e frameworks
 
 A ideia é criar uma aplicação "quase" ecommerce fazendo a parte do gerenciamento do gerente do estabelecimento com os CRUDs de produto, categoria e cupons e também a edição do perfil e configurações da loja.
 
-A aplicação não precisa de uma API, utilize objetos JSON como mocks ou simule uma api com [JSON server] (https://www.npmjs.com/package/json-server).
+A aplicação não precisa de uma API, utilize objetos JSON como mocks ou simule uma api com [JSON server](https://www.npmjs.com/package/json-server).
 
 Também iremos avaliar o versionamento do código, assim que começar a desenvolver, crie um repositório no Github, deixe público e nos envie o link por email assim que estiver tudo ok.
 
@@ -45,6 +45,6 @@ Também iremos avaliar o versionamento do código, assim que começar a desenvol
 Envie os links do repositório e do figma para o email logo abaixo.
 Fique à vontade para tirar dúvidas entrando em contato pelo email também.
 
-[micael@paggue.io] (mailto:micael@paggue.io)
+micael@paggue.io
 
 Boa sorte!!
