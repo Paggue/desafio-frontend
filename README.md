@@ -18,12 +18,12 @@ Lista de telas:
 	- Login
 	- Cadastro de cliente (nome, cpf/cnpj, nome do estabelecimento (razão social e nome fantasia), email, senha, telefone)
 	- Perfil (resetar senha, etc)
-	- Cupons (validade e/ou quantidade)
-	- Eventos (Criar, editar, excluir)
-	- Setores (pista, camarote...)
-	- Lote (encerrando um lote e abrindo outro se estiver configurado)
+	- Cupons [CRUD] (validade e/ou quantidade)
+	- Eventos [CRUD]
+	- Setores, com nome (pista, camarote...), capacidade... [CRUD]
+	- Lote [CRUD] (encerrando um lote e abrindo outro se estiver configurado)
 	- Checkout (Venda de ingressos online com pix mostrando QR Code e copia e cola)
-	- Uso de websocket para receber as notificações e atualizações de status.
+	- Uso de websockets para receber as notificações e atualizações de status.
 	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)
 	- Visualização do cliente (tela pública para visualizar os eventos)
 
