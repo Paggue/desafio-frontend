@@ -17,16 +17,15 @@ Lista de telas:
 
 	- Login
 	- Cadastro de cliente (nome, cpf/cnpj, nome do estabelecimento (razão social e nome fantasia), email, senha, telefone)
-	- Perfil (adicionar conta bancária, chave pix, endereço, forma de pagamentos disponíveis)
+	- Perfil (resetar senha, etc)
 	- Cupons (validade e/ou quantidade)
-	- Produtos (nome, descrição, categoria, preço, estoque)
-	- Categorias dos produtos
-	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)*
-	- [BÔNUS] Visualização do cliente** (tela pública para visualizar os produtos)
-
-`*` Tente aplicar as cores selecionadas em todo o projeto, mudando backgrounds e cores dos textos. Deixe umas cores pré definidas inicialmente.
-
-`**` O bônus não é obrigatório, porém ajuda na qualificação.
+	- Eventos (Criar, editar, excluir)
+	- Setores (pista, camarote...)
+	- Lote (encerrando um lote e abrindo outro se estiver configurado)
+	- Checkout (Venda de ingressos online com pix mostrando QR Code e copia e cola)
+	- Uso de websocket para receber as notificações e atualizações de status.
+	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)
+	- Visualização do cliente (tela pública para visualizar os eventos)
 
 ## Código
 
@@ -34,7 +33,7 @@ Para iniciar o seu teste, fique livre para usar libs, dependências e frameworks
 
 >Vamos avaliar seu CÓDIGO independentemente das bibliotecas que você utilizar.
 
-A ideia é criar uma aplicação "quase" ecommerce fazendo a parte do gerenciamento do gerente do estabelecimento com os CRUDs de produto, categoria e cupons e também a edição do perfil e configurações da loja.
+A ideia é criar uma aplicação de gestão e venda de eventos fazendo o gerenciamento com os CRUDs de eventos, setores, cupons e também a edição do perfil e configurações.
 
 A aplicação não precisa de uma API, utilize objetos JSON como mocks ou simule uma api com [JSON server](https://www.npmjs.com/package/json-server).
 
