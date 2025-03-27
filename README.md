@@ -27,7 +27,7 @@ Lista de telas:
 	- Configurações da Loja (cores, banners, quantidade mínima para desconto, desconto em percentual.)
 	- Visualização do cliente (tela pública para visualizar os eventos)
 
-##  Código
+## Código
 
 Para iniciar o seu teste, fique livre para usar libs, dependências e frameworks que você tem mais afinidade, porém iremos priorizar aqueles feitos com ReactJS.
 
