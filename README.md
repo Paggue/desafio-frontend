@@ -44,6 +44,6 @@ Também iremos avaliar o versionamento do código, assim que começar a desenvol
 Envie os links do repositório e do figma para o email logo abaixo.
 Fique à vontade para tirar dúvidas entrando em contato pelo email também.
 
-micael@paggue.io
+dev@paggue.io
 
 Boa sorte!!
