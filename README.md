@@ -47,3 +47,23 @@ Fique à vontade para tirar dúvidas entrando em contato pelo email também.
 dev@paggue.io
 
 Boa sorte!!
+
+### 🎯 Requisitos Essenciais:
+> - ✅ Experiência com React.js e React Native – Desenvolvimento de interfaces web e mobile.
+> - ✅ Conhecimento em JavaScript e TypeScript – Uso de boas práticas e tipagem estática.
+> - ✅ Styled-components ou Tailwind CSS – Para estilização eficiente.
+> - ✅ Context API, Redux ou Zustand – Gerenciamento de estado.
+> - ✅ Consumo de APIs REST e GraphQL – Integração com backend.
+> - ✅ Versionamento com Git/GitHub – Fluxos de trabalho com Git Flow.
+> - ✅ Testes automatizados – Jest, Testing Library, Detox (para React Native).
+> - ✅ Componentização e boas práticas – Código modular, reutilizável e otimizado.
+
+### 🚀 Requisitos Desejáveis:
+> - 🔹 Next.js – Para aplicações React otimizadas.
+> - 🔹 React Query ou SWR – Para requisições otimizadas.
+> - 🔹 Firebase ou Supabase – Autenticação e backend serverless.
+> - 🔹 Publicação de apps – Conhecimento no Google Play e App Store.
+> - 🔹 Conhecimento em CI/CD – Automação de deploys (GitHub Actions, Fastlane).
+> - 🔹 Experiência com animações – Framer Motion, Lottie ou Reanimated.
+> - 🔹 Metodologias ágeis – Scrum, Kanban, etc.
+
